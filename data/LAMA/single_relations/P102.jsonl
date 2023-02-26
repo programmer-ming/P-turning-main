@@ -1,0 +1,1 @@
+{"relation": "P102", "template": "[X] is a member of the [Y] political party .", "label": "member of political party", "description": "the political party of which this politician is or has been a member", "type": "N-1"}

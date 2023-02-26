@@ -1,0 +1,1 @@
+{"relation": "P138", "template": "[X] is named after [Y] .", "label": "named after", "description": "entity or event that inspired the subject's name, or namesake (in at least one language)", "type": "N-1"}

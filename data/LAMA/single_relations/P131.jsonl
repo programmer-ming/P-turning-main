@@ -1,0 +1,1 @@
+{"relation": "P131", "template": "[X] is located in [Y] .", "label": "located in the administrative territorial entity", "description": "the item is located on the territory of the following administrative entity. Use P276 (location) for specifying the location of non-administrative places and for items about events", "type": "N-1"}

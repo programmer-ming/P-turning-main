@@ -1,0 +1,1 @@
+{"relation": "P140", "template": "[X] is affiliated with the [Y] religion .", "label": "religion", "description": "religion of a person, organization or religious building, or associated with this subject", "type": "N-1"}

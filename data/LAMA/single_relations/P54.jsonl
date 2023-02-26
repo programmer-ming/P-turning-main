@@ -1,0 +1,1 @@
+{"relation": "P54", "template": "[X] plays with [Y] .", "label": "member of sports team", "description": "sports teams or clubs that the subject currently represents or formerly represented", "type": "N-1"}

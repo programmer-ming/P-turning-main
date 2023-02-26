@@ -1,0 +1,1 @@
+{"relation": "P17", "template": "[X] is located in [Y] .", "label": "country", "description": "sovereign state of this item; don't use on humans", "type": "N-1"}

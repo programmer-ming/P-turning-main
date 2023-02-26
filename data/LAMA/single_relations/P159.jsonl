@@ -1,0 +1,1 @@
+{"relation": "P159", "template": "The headquarter of [X] is in [Y] .", "label": "headquarters location", "description": "specific location where an organization's headquarters is or has been situated. Inverse property of \"occupant\" (P466).", "type": "N-1"}

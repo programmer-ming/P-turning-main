@@ -1,0 +1,1 @@
+{"relation": "P106", "template": "[X] is a [Y] by profession .", "label": "occupation", "description": "occupation of a person; see also \"field of work\" (Property:P101), \"position held\" (Property:P39)", "type": "N-M"}

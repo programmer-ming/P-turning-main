@@ -1,0 +1,1 @@
+{"relation": "P276", "template": "[X] is located in [Y] .", "label": "location", "description": "location of the item, physical object or event is within. In case of an administrative entity use P131. In case of a distinct terrain feature use P706.", "type": "N-1"}

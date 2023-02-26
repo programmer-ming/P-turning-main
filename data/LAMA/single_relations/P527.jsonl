@@ -1,0 +1,1 @@
+{"relation": "P527", "template": "[X] consists of [Y] .", "label": "has part", "description": "part of this subject; inverse property of \"part of\" (P361). See also \"has parts of the class\" (P2670).", "type": "N-M"}

@@ -1,0 +1,1 @@
+{"relation": "P364", "template": "The original language of [X] is [Y] .", "label": "original language of film or TV show", "description": "language in which a film or a performance work was originally created. Deprecated for written works; use P407 (\"language of work or name\") instead.", "type": "N-1"}

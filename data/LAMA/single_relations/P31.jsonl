@@ -1,0 +1,1 @@
+{"relation": "P31", "template": "[X] is a [Y] .", "label": "instance of", "description": "that class of which this subject is a particular example and member (subject typically an individual member with a proper name label); different from P279; using this property as a qualifier is deprecated\u2014use P2868 or P3831 instead", "type": "N-M"}

@@ -1,0 +1,1 @@
+{"relation": "P19", "template": "[X] was born in [Y] .", "label": "place of birth", "description": "most specific known (e.g. city instead of country, or hospital instead of city) birth location of a person, animal or fictional character", "type": "N-1"}

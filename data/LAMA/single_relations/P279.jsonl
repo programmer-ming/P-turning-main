@@ -1,0 +1,1 @@
+{"relation": "P279", "template": "[X] is a subclass of [Y] .", "label": "subclass of", "description": "all instances of these items are instances of those items; this item is a class (subset) of that item. Not to be confused with P31 (instance of)", "type": "N-1"}

@@ -1,0 +1,1 @@
+{"relation": "P463", "template": "[X] is a member of [Y] .", "label": "member of", "description": "organization or club to which the subject belongs. Do not use for membership in ethnic or social groups, nor for holding a position such as a member of parliament (use P39 for that).", "type": "N-M"}

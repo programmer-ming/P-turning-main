@@ -1,0 +1,1 @@
+{"relation": "P361", "template": "[X] is part of [Y] .", "label": "part of", "description": "object of which the subject is a part (it's not useful to link objects which are themselves parts of other objects already listed as parts of the subject). Inverse property of \"has part\" (P527, see also \"has parts of the class\" (P2670)).", "type": "N-1"}

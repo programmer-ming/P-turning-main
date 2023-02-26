@@ -1,0 +1,1 @@
+{"relation": "P1923", "template": "[Y] participated in the [X] .", "label": "participating team", "description": "Like 'Participant' (P710) but for teams. For an event like a cycle race or a football match you can use this property to list the teams and P710 to list the individuals (with 'member of sports team' (P54)' as a qualifier for the individuals)", "type": "N-M"}

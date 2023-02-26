@@ -1,0 +1,1 @@
+{"relation": "P27", "template": "[X] is [Y] citizen .", "label": "country of citizenship", "description": "the object is a country that recognizes the subject as its citizen", "type": "N-M"}

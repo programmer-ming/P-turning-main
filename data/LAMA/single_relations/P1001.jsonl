@@ -1,0 +1,1 @@
+{"relation": "P1001", "template": "[X] is a legal term in [Y] .", "label": "applies to jurisdiction", "description": "the item (an institution, law, public office ...) or statement belongs to or has power over or applies to the value (a territorial jurisdiction: a country, state, municipality, ...)", "type": "N-M"}

@@ -1,0 +1,1 @@
+{"relation": "P413", "template": "[X] plays in [Y] position .", "label": "position played on team / speciality", "description": "position or specialism of a player on a team, e.g. Small Forward", "type": "N-1"}
